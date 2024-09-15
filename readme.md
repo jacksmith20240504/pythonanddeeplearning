@@ -5,6 +5,8 @@
 3. 学习通过mac login 
 4. 新调整格式
 5. 新修改，更改内容。
+6. new change 
+7. new change too
 
 
 '''
